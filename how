@@ -1,0 +1,18 @@
+[33mcommit 6ec6e2e6ad2ee984c4867ab5806f657370d64abd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Priya <priyadharshini3569@gmail.com>
+Date:   Tue Sep 22 17:28:53 2026 +0530
+
+    Add Kubernetes to skills
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex b773c59..36138ac 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -3,6 +3,7 @@[m
+ <head>[m
+     <title>My Cloud Learning</title>[m
+     <link rel="stylesheet" href="styles.css">[m
+[32m+[m[32m    <li>Kubernetes</li>[m
+ </head>[m
+ [m
+ <body>[m
